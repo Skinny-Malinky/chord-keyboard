@@ -64,7 +64,7 @@ function setup() {
     eMaj.addPhrase(ePerfectFifth);
     eMaj.setBPM(60);
     // https://p5js.org/reference/#/p5.Score/
-    new p5.Score(aMaj, bMaj);
+    score = new p5.Score(aMaj, bMaj);
 }
 
 function draw() {
@@ -87,6 +87,6 @@ function makeSoundThree(time, playbackRate) {
 function mouseClicked() {
     if (mouseX > 0 && mouseX < width && mouseY > 0 && mouseY < height) {
         //https://p5js.org/reference/#/p5.Score/start
-        start();
+        score.start();
     }
 }

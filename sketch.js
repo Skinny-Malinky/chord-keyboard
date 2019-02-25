@@ -6,6 +6,9 @@ function preload() {
     rootNote = loadSound('instrument/bassoon.mp3');
     majorThird = loadSound('instrument/bassoon.mp3');
     perfectFifth = loadSound('instrument/bassoon.mp3');
+    rootNoteTwo = loadSound('instrument/bassoon.mp3');
+    majorThirdTwo = loadSound('instrument/bassoon.mp3');
+    perfectFifthTwo = loadSound('instrument/bassoon.mp3');
 }
 
 function setup() {
@@ -24,9 +27,9 @@ function setup() {
     aMaj.addPhrase(aPerfectFifth);
     aMaj.setBPM(60);
     
-    bRoot = new p5.Phrase('bassoon', makeSound, [3]);
-    bMajThird = new p5.Phrase('bassoon', makeSoundTwo, [1]);
-    bPerfectFifth = new p5.Phrase('bassoon', makeSoundThree, [7]);
+    bRoot = new p5.Phrase('bassoon', makeSoundFour, [3]);
+    bMajThird = new p5.Phrase('bassoon', makeSoundFive, [1]);
+    bPerfectFifth = new p5.Phrase('bassoon', makeSoundSix, [7]);
     
     bMaj = new p5.Part();
     bMaj.addPhrase(bRoot);
@@ -64,7 +67,8 @@ function setup() {
     eMaj.addPhrase(ePerfectFifth);
     eMaj.setBPM(60);
     // https://p5js.org/reference/#/p5.Score/
-    score = new p5.Score(aMaj, bMaj);
+    score = new p5.Score();
+    score.parts = [aMaj, bMaj, cMaj, dMaj, eMaj];
 }
 
 function draw() {
@@ -84,6 +88,19 @@ function makeSoundThree(time, playbackRate) {
     perfectFifth.rate(playbackRate);
     perfectFifth.play(time);
 }
+function makeSoundFour(time, playbackRate) {
+    rootNoteTwo.rate(playbackRate);
+    rootNoteTwo.play(time);
+}
+function makeSoundFive(time, playbackRate) {
+    majorThirdTwo.rate(playbackRate);
+    majorThirdTwo.play(time);
+}
+function makeSoundSix(time, playbackRate) {
+    perfectFifthTwo.rate(playbackRate);
+    perfectFifthTwo.play(time);
+}
+
 function mouseClicked() {
     if (mouseX > 0 && mouseX < width && mouseY > 0 && mouseY < height) {
         //https://p5js.org/reference/#/p5.Score/start

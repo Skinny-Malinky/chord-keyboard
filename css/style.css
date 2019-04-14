@@ -1,0 +1,15 @@
+body {
+    background-color: #8b9896;
+    line-height: 0.1em;
+}
+p:hover {
+    transition: 1s;
+    line-height: 1.4em;
+}
+p {
+    transition: 1s;
+}
+.container {
+    width: 70ch;
+    margin: 0 auto;
+}

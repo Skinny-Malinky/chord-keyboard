@@ -1,0 +1,4194 @@
+01:37
+I hope you'll go along with this rather
+01:44
+unusual setting and the fact that I
+01:46
+remain seated when I get introduced and
+01:48
+the fact that I'm going to come to you
+01:49
+mostly through this medium here for the
+01:53
+rest of the show
+01:54
+and I should tell you that I'm backed up
+01:56
+by quite a staff of people between here
+01:58
+in mineral park or Stanford Research is
+02:00
+located some 30 miles south of here and
+02:04
+if every one of us does our job well
+02:07
+we'll all go very interesting I think
+02:10
+the research program that i'm going to
+02:13
+describe to you is quickly
+02:14
+characterisible by saying if in your
+02:18
+office you as an intellectual worker
+02:20
+were supplied with a computer display
+02:24
+backed up by a computer that was alive
+02:26
+for you all day
+02:28
+and was instantly responsible responsive
+02:32
+instantly responsive to every action you
+02:34
+had how much value could you drive from
+02:37
+that well this basically characterizes
+02:39
+what we've been pursuing for many years
+02:41
+in what we call the Augmented human
+02:43
+intellect Research Center at Stanford
+02:45
+Research Institute now the whole session
+02:48
+is going to be devoted to trying to
+02:50
+describe and present to you the nature
+02:53
+of this program but unfortunately
+02:56
+unfortunately the products of this
+03:00
+program the technology of a lends itself
+03:03
+well to an interesting way to portray it
+03:05
+for you so we're going to try our best
+03:06
+to show you rather than tell you about
+03:09
+this program a very essential part of
+03:12
+what we have developed technologically
+03:15
+is what does come through this display
+03:17
+to us and I'm going to start out without
+03:20
+telling you very much about the program
+03:22
+and just run through a little bit of the
+03:23
+action that this provides us so in my
+03:27
+office I have a console like this and
+03:29
+there are 12 others at our computer
+03:31
+supplies and we try nowadays to do our
+03:34
+daily work on here so this characterizes
+03:38
+the way I could sit here and look at a
+03:39
+blank piece of paper that's the way I
+03:41
+start many projects so with my system
+03:44
+that's a good start
+03:46
+I'll sit here and say I'd like to load
+03:47
+that in
+03:48
+so sorry so I'm putting in an entity
+04:02
+called a statement and that's full of
+04:04
+other entities called words and if I
+04:08
+make some mistakes I can back up a
+04:10
+little bit so I have a statement with
+04:17
+some entities words and I can do some
+04:19
+operations on these I can copy a word
+04:21
+say that word like copy after itself
+04:24
+in fact that pair of words I like to
+04:26
+copy after itself and I can just do this
+04:28
+a few times and get a bit of material
+04:30
+there and there other entities like text
+04:33
+say after there I'd like to copy from
+04:36
+that and it point to that point and it
+04:38
+will copy it right so I could get myself
+04:42
+some material on my blank piece of paper
+04:44
+and then I'd say well this is going to
+04:46
+be more important than it looks so I'd
+04:48
+like to set up a file so I tell a
+04:50
+machine alright
+04:51
+output to a file and it says I need name
+04:54
+I'll give it a name I'll say it sample
+04:58
+file and I'll say please output it it
+05:02
+says it did and then it comes back
+05:04
+automatically with a origin statement or
+05:07
+header telling me the name of the file
+05:08
+and the date and the time and who
+05:11
+established it and thereafter I can
+05:13
+always do something I can ask for the
+05:15
+status of a file and it will tell me
+05:17
+that information very small file now
+05:19
+owned by me last Whitham by me
+05:22
+very shortly ago etc another interesting
+05:26
+date in there so we've seen how we can
+05:28
+start with a blank piece of paper and go
+05:31
+to developing a file this file has one
+05:34
+statement with a few words in it let's
+05:36
+make more statements I'll say copy that
+05:38
+statement and only hold add another one
+05:40
+copy that one another one I can even
+05:43
+copy groups of statements I can say
+05:45
+after that one copy to move from there
+05:47
+to there it does I can look at that and
+05:50
+say hmm probably goes off the screen
+05:52
+it'd be interesting if I could ask the
+05:55
+computer to collapse that perhaps to
+05:56
+show me just the first line of each of
+05:58
+those statements
+05:59
+please do that so it did this is one
+06:02
+aspect of what we'll use over and over
+06:04
+again through this presentation what we
+06:05
+call view control where no matter where
+06:09
+in a file we're looking we can ask it to
+06:11
+use any wonderful large number of
+06:13
+parameters for constructing a view at
+06:16
+that point in the file that best suits
+06:18
+our need at the time this one wants us
+06:20
+to give an overview of the thing so I'll
+06:23
+say well I have this I don't want them
+06:24
+all to be statement one so I'll just
+06:26
+replace the word there with the two and
+06:29
+how about that one with a three just the
+06:36
+place to forget how to come so I can
+06:39
+look and say I got statements one two
+06:41
+three and four if I'd like to make them
+06:43
+a little prettier I can I can work in
+06:53
+keeping them up a little but that isn't
+06:55
+what I always do oops you can tell that
+07:03
+I have not warmed up yet I hope you can
+07:07
+tell right alright so I'm going to meand
+07:11
+up lined up and I can say for instance
+07:14
+other entities like an invisible string
+07:16
+I don't know whether that's tabs or
+07:18
+characters in there but I can say if I
+07:20
+want to and place that invisible replace
+07:22
+that invisible string with just one
+07:24
+character not that character that one
+07:27
+space and it'll do it so I can look at
+07:30
+that and say I have files one two three
+07:32
+four five six and I've named them that
+07:34
+way but that's usually a sort of a pain
+07:36
+to do that so I'll ask it to number them
+07:39
+themselves and one of the views is such
+07:41
+that it will give you a list numbering
+07:43
+for each of those statements and I can
+07:46
+also open them all up or a scandal out
+07:48
+numbers however I wish and then I can
+07:51
+output them so we've seen ways to work
+07:55
+fairly fast with the entities of a
+07:56
+statement in a file create a file I can
+08:00
+delete that file or mess it up
+08:02
+considerably like if I'm going to say I
+08:04
+want to delete that word by accidentally
+08:06
+hit
+08:06
+and Eddie instead watch what happens
+08:09
+sort of replaces the whole thing there's
+08:12
+nothing that occasionally happens so you
+08:14
+say I I'll load that file it'll come
+08:20
+back in as it was I last saved it
+08:22
+telling me the date that I wrote it and
+08:24
+unfortunately I didn't say it enough
+08:26
+well I'm through with this example right
+08:28
+now let me go to a file that I prepared
+08:31
+just after my wife called me and said on
+08:34
+the way home would you do little
+08:35
+shopping for me so as soon as she said
+08:37
+that I got my system organized
+08:49
+and made a shopping list so it's got
+08:53
+quite a few items on it and if I want to
+08:56
+I can see that yes those are numbers
+08:58
+numbered statements and I can say there
+09:01
+ways I can scan down it like I can point
+09:03
+to Tim and say put it at the top and I
+09:05
+scan up the point 223 and I got quite a
+09:08
+few and I remember that's about as far
+09:10
+as he got when she said well call me
+09:12
+back when you're ready to go shopping
+09:14
+and I'll tell you the rest of the things
+09:15
+so let me jump back to the head of the
+09:17
+list and I can do things like begin to
+09:20
+reorganize it a little bit well I say
+09:22
+after bananas it's more likely that I'll
+09:25
+take the carrots there and so carrots
+09:29
+moved right up behind bananas an aspirin
+09:32
+doesn't really belong there I think I
+09:34
+asked me was after paper towels and the
+09:35
+order well pretty soon I would I would
+09:40
+begin to have a lot of trouble keeping
+09:41
+that straight so let me organize it by
+09:43
+saying just generally produce
+09:56
+I'm going to try to my interest
+10:01
+statement is hey hi there
+10:07
+I see stuck that something's going wrong
+10:10
+and I would call the programmer or the
+10:12
+hardware man and tell him I made it
+10:18
+products I really AM warmed up to this
+10:22
+thing yet so I'll say well produce I'll
+10:24
+categorize things let me look at it that
+10:29
+way and I'll say let me move a statement
+10:31
+for produce carrots and I'd like to sub
+10:35
+categorizing it so it moved and there it
+10:41
+is
+10:48
+alright Prados I've got carrots and I'll
+10:50
+move under there also bananas and in
+10:54
+fact I could move a whole group under
+10:56
+they're saying oranges and apples also
+11:02
+so I can begin categorizing things like
+11:05
+that and if I look at the numbers now
+11:07
+I'd find that these and these items fit
+11:10
+under there as a subset and I realize I
+11:13
+can categorize quite extensively I could
+11:16
+introduce a new thing under there there
+11:18
+was something I just invented a skinless
+11:22
+banana but I have to go there
+11:26
+and look at it so part of our view
+11:29
+control besides this thing we've shown
+11:31
+you of showing numbers or not is also
+11:33
+whether we can show you some of these
+11:36
+different levels or not I can say I want
+11:37
+to see two levels or only one level deep
+11:40
+in there it makes it very nice for
+11:42
+studying it or I can do something like
+11:44
+when I say let's put produce at the top
+11:47
+let's open up one level below it and
+11:50
+only show me what's below it and another
+11:53
+level if I wish and then no numbers so
+11:56
+these moving around will jump to
+11:58
+identities there are many ways to move
+12:04
+around and to make views and this this
+12:07
+is one of the basic features of this
+12:09
+tool we have well suppose I work for
+12:11
+some time at this and then call my wife
+12:13
+to get the rest of the list I'd
+12:14
+eventually end up with a whole structure
+12:25
+where I could say gee there were a lot
+12:27
+of things in markets you store I have to
+12:29
+stop - let me see what I'm supposed to
+12:31
+get in the market well produce cans
+12:34
+cereals what about cereals
+12:36
+all cereals bread noodles like that okay
+12:39
+back up there if I want to look at the
+12:41
+numbers that's what I can't I want to
+12:43
+open up everything see that or any lines
+12:46
+there are many ways in which I can look
+12:49
+at that and uh but one interesting thing
+12:54
+here that I haven't told you about is
+12:56
+that when the numbers are on I can do
+13:00
+something like say instead of jump to
+13:02
+identity and pointing to that and having
+13:05
+it bring to the top or jumping return
+13:08
+back I can say a jump to a name and say
+13:11
+go to to a four and it'll do it or
+13:17
+return so I can jump to a location
+13:20
+number just by giving it or if I wish I
+13:23
+can add it add it as text in there and
+13:29
+say jump to name
+13:30
+just point to that it'll go to a visible
+13:35
+carats honey all right carats to a four
+13:40
+so I gave it the name of that can go to
+13:42
+it I give it the names of I don't know
+13:48
+that I guess they go to one which is out
+13:53
+of sight from here now and say jump to
+13:55
+that and a 1 different views so it's
+14:00
+very easy to jump around and make cross
+14:02
+references it turns out if I wish I can
+14:05
+also make a cross reference to something
+14:07
+where I gave it a label or a name such
+14:09
+as you do when you're programming I can
+14:12
+call this alpha' because they jump to
+14:17
+name and I could type it I think I made
+14:20
+a mistake with the type it so what I
+14:22
+should really do is say I'd like to
+14:24
+weaken form my whole picture so there
+14:29
+it's going to say name and I jump to
+14:37
+something named alpha there
+14:46
+all right so I can give names and I can
+14:50
+say in here a reference like that or I
+14:59
+can say jump to name a point to that
+15:02
+and lo and behold I'll go to this thing
+15:04
+that was I named alpha so I can name it
+15:07
+and if I want to I can ask to see the
+15:11
+name or I can ask not to see the names
+15:14
+depending on which right now would
+15:16
+happen not be seeing the names
+15:24
+so look what else we can do in here I've
+15:27
+got this file that's structured if I
+15:29
+want to see what's in there I can walk
+15:31
+down the hierarchy levels and see or
+15:37
+return but there's another thing I can
+15:41
+do this route I said I have here
+15:47
+so here I'm afraid I'll need a different
+15:50
+picture the view so here's what I do
+15:52
+with a picture drawing capability it's a
+15:55
+slight and lap if I start from work and
+15:57
+here's the route I seem to have to go to
+15:58
+to pick up all the materials and that's
+16:01
+my plan for getting home tonight but if
+16:03
+I want to I can say the library what am
+16:05
+I supposed to pick up there I can just
+16:08
+point to that you know I see overdue
+16:11
+books and all while there was
+16:12
+sustainment there with that name on it
+16:14
+go back what if I once am I supposed to
+16:16
+pick up the drugstore hmm I see you've
+16:18
+everything all right market oh I've
+16:23
+already seen that I don't know like that
+16:26
+gee that's too much anyway so we have
+16:31
+this feature the structuring our
+16:33
+material they are quickly they give them
+16:36
+the move around it very well when we get
+16:39
+a hierarchy
+16:43
+such as I can show you here
+16:47
+I can do things if I want to just say
+16:50
+I'd like to interchange produce and
+16:52
+canned materials bingo they're all
+16:56
+numbered writing if I care to look
+16:58
+interchanging them very quickly cans are
+17:01
+going to get interchanged with produce
+17:04
+they do it and all gets me numbered so I
+17:07
+have ways of studying over making
+17:10
+different views moving around going to
+17:11
+specified points and modifying the
+17:16
+structure at the same time I seen that I
+17:18
+have a repertoire of different entities
+17:20
+my character knock off that character
+17:23
+replace the character make that P so I
+17:28
+have entities of all sorts that I can
+17:30
+say I want to do operations on and this
+17:32
+basic structure that I can move over and
+17:34
+study and get about very quickly so that
+17:37
+is the essence No
+17:42
+that's the essence of the tool we have a
+17:45
+lot of details that I've left out for
+17:48
+you
+17:48
+and now I'd like to stop a minute and
+17:52
+just make sure you understand we're
+17:56
+shifting from illustrative material to
+17:58
+the real working stuff in case you
+18:00
+wouldn't recognize it otherwise we've
+18:02
+had that we've used this tool to do our
+18:06
+daily work and it's our system has been
+18:09
+built this time sharing system for about
+18:12
+6 months now it's been working and in
+18:15
+that time we've gone from it getting one
+18:16
+console to getting about six working now
+18:18
+with six more do the rest of spring is
+18:21
+our fourth computer which we had this
+18:23
+kind of a system so we've learned a lot
+18:25
+about the user features we want and how
+18:27
+to be fairly skillful but this next step
+18:29
+about learning how when you're faced
+18:31
+with having this in your office all day
+18:34
+as I now do very exciting sense how do
+18:37
+you put that to work for yourself how do
+18:39
+you organize your files what kind of
+18:41
+things do you do so to get going on this
+18:44
+let's switch away from the tool we have
+18:46
+here and talk about some of the general
+18:48
+features of the program some of the ways
+18:50
+it's built and get back a little later
+18:52
+to the nature of the of our usage of it
+18:55
+all right let me get back in this
+18:58
+material here's just the outline I'm
+19:01
+going to use you can realize that it's a
+19:03
+file these are statements and we're
+19:05
+probably looking at the top level of
+19:06
+them and the first one the introduction
+19:08
+you can consider we've done and the next
+19:10
+one overall about program its what I'm
+19:13
+going to do now well I'm going to do
+19:15
+something called jump on a link and the
+19:18
+link is something that will go between
+19:19
+files so what it's going to do and says
+19:23
+I'm going to go to your file name and
+19:25
+see NRO and the link also says we're in
+19:28
+that file and just what you would want
+19:31
+so I do like that I'm in the middle of
+19:34
+that other file looking at this
+19:35
+particular material that's been carved
+19:37
+out by the specifications on that link
+19:39
+and this is telling me to make a
+19:41
+preparation to start on a presentation
+19:43
+but I should also remember
+19:50
+I'm going back to this other file
+19:53
+because what I want to do is restore
+20:01
+restore a different kind
+20:22
+I had go to a different file in which
+20:25
+because I made a hitch in my rehearsing
+20:28
+for this thing in which I have many
+20:31
+types of format structure set up and
+20:34
+numbered and I just reset the kind that
+20:35
+I want to use to show you this material
+20:37
+we're very flexible with it for instance
+20:40
+I can say I'd like to restore number
+20:44
+seven is a horrible example see I can
+20:48
+have many ways in which I can control
+20:50
+all of the parameters character size
+20:52
+spacing location everything else but I
+20:54
+don't usually go to this extreme but
+20:56
+it's just showing you that I can the one
+20:59
+I want right now is the one that shows
+21:01
+you a simple large view we usually work
+21:04
+with a view we usually work with
+21:13
+something like this or when we're
+21:14
+working with our closed spaces we can do
+21:17
+quite well but it's felt that that would
+21:20
+be a little hard for people to see so
+21:21
+we're using it like this where we don't
+21:23
+see as much material but they're large
+21:25
+and clear so not only back go back to
+21:27
+that file I came here from and say
+21:31
+alright now I'm ready I'd like to jump
+21:33
+and learn about the program when I get
+21:36
+in here now it looks different as it
+21:38
+should here's them here's this is
+21:45
+another file and in this file
+21:47
+I prepared a chain of views and I using
+21:51
+some of the tools I have it all set so I
+21:53
+go from one scene to the other I could
+21:55
+study them in the fashion I've shown you
+21:57
+before but it's sort of fun to set up
+21:59
+these change and it represents to you
+22:01
+away in which we work too so to do it
+22:03
+I'm going to freeze a statement that's
+22:06
+named a and I'm going to put on a
+22:09
+certain parameter when I do it then I'm
+22:12
+going to jump to a link and here's a
+22:14
+link says you want to go to statement a
+22:16
+but after the : all this garbage tells a
+22:20
+bunch of abbreviated ways in which you'd
+22:23
+like to control the view when you get
+22:25
+there many parameters is you'll notice
+22:27
+so I'll just say I go to that one and
+22:29
+I'm looking at
+22:30
+in a now it's telling me this
+22:33
+presentation is devoted to the hir see
+22:35
+the natural question is what's that
+22:52
+there was another booboo I made I left
+22:54
+several statements frozen this statement
+22:58
+I've asked to be frozen that was the
+23:00
+setup operation it's just going to stay
+23:01
+there above that dotted line as the
+23:03
+viewing part of my screen from there
+23:05
+down jumps around on the links I have
+23:07
+set up okay the first jump took me to
+23:09
+this statement saying I admitted human
+23:12
+intellect research centers what hir C
+23:14
+stands for a hidden link will take me to
+23:17
+the next one
+23:17
+tell me what's located that NSRI it's an
+23:21
+explicit organizational entity and we
+23:23
+call a group level but also I'd like to
+23:26
+point out there other man computer work
+23:27
+going on a DES RI in ours is but one so
+23:31
+if I jump on a link incidentally I
+23:34
+should just stop and reveal to you that
+23:36
+the link is hidden under there I was
+23:38
+very clever to set the viewing
+23:41
+parameters so they wouldn't show the
+23:43
+link when I say jump to link and market
+23:46
+there the computer goes looking from
+23:48
+there on for that link and a basic and
+23:50
+I'm not showing the statement names
+23:52
+either but this a statement named B
+23:54
+obviously so that program involves about
+23:56
+17 people together with a special
+23:58
+laboratory facilities we have it's
+24:01
+sponsored by government agencies
+24:02
+exclusively ARPA NASA and IDC now in the
+24:06
+past Air Force are an ESD and these are
+24:10
+the people that first grubstaked as many
+24:11
+years ago and it's been a goal-oriented
+24:15
+pursuit for many years and I think we
+24:19
+can just go off and get a quick little
+24:20
+picture I sketch to show this is the
+24:22
+staffing over the years from 1950 on and
+24:25
+it's had slightly bumpy history during
+24:28
+these years there was only one of us
+24:32
+I go back to where I was and say let's
+24:35
+continue on in this file that link took
+24:38
+me up to a different file to a statement
+24:40
+for that view and I jump back to this
+24:43
+file where I was and now within this
+24:45
+file and I can link to another to say
+24:46
+the hir C is pursuing these goals basic
+24:52
+goal will improve the effectiveness with
+24:53
+which individuals and organizations work
+24:56
+at intellectual tasks what does their
+24:58
+effectiveness involve them better
+25:01
+solutions faster solutions solutions to
+25:05
+more complex problems better use of
+25:07
+human capabilities really thinking about
+25:09
+that but a corollary goal is besides
+25:14
+improving the effectiveness to develop a
+25:16
+system oriented discipline for designing
+25:18
+the means by which greater effectiveness
+25:20
+is achieved that's very important to us
+25:22
+the approach for this shouldn't result
+25:25
+in this system oriented discipline let
+25:28
+me just show you how I constructed this
+25:30
+file you notice underneath there with
+25:32
+that and that there was just a link
+25:35
+hidden here it went back to this view
+25:40
+with a slightly different new parameters
+25:48
+to give you that view alright there's
+25:52
+another one hidden here
+25:53
+it says the general approach for us
+25:56
+empirical we're pursuing this monstrous
+25:59
+goal monstrously difficult to by
+26:03
+building and trying empirically and
+26:06
+we're approaching an evolutionary wise
+26:08
+because we feel that it's a whole system
+26:10
+problem you need to get a person in that
+26:13
+environment working and looking at the
+26:15
+many aspects of his working system that
+26:17
+are involved in his effectiveness that's
+26:19
+many more things than just these
+26:21
+computer-aided tools in a large system
+26:23
+like that we need to do at evolutionary
+26:26
+wise because we can't be analytic enough
+26:27
+about it at any one point to decide what
+26:30
+best our next thing should be we can
+26:33
+only decide from here as well as we can
+26:35
+analyze
+26:36
+where we can invest our next resources
+26:38
+to get the most return and it increases
+26:41
+the effectiveness of the system we have
+26:43
+in this item down here
+26:45
+is the term bootstrapping applied in a
+26:47
+slightly new sense we're applying that
+26:49
+to our approach where we're saying we
+26:52
+need a a research subject group to give
+26:57
+them these tools put them to work with
+26:59
+them study them and improve them
+27:00
+aha we'll do that by making ourselves be
+27:03
+the subject group and studying ourselves
+27:05
+in making the tools so that they improve
+27:08
+our ability to develop and study these
+27:10
+kinds of systems and to produce in the
+27:13
+end this kind of system discipline so
+27:16
+it's going to it's a struggle doing it
+27:18
+that way but it's beginning to pay off
+27:20
+all right from there sorry
+27:24
+I'm cEPAL ajay zhing to my friend the
+27:27
+computer I said jump to link and hit it
+27:29
+up here and it went and found these
+27:32
+parentheses starting here and says
+27:34
+that's not a link I should have hit it
+27:36
+here I didn't find a real link and I'm
+27:38
+back in this list here and I've given
+27:40
+you an overall picture about the program
+27:42
+and that's out of the way and I can just
+27:45
+move my marker down and say let's save
+27:48
+that version so this tool in pursuing
+27:55
+those goals on our principal tools is
+27:57
+this computer aid system let's talk
+28:00
+about it as a system there's a link
+28:02
+sequence to jump in there to where we
+28:05
+talk about NLS in the online system a
+28:08
+very general term it's going to be NLS
+28:11
+for many many years an online system
+28:13
+that will involve evolve right now we
+28:15
+consider it to be primarily an
+28:17
+instrument in the vehicle for helping
+28:19
+humans to operate within the domain of
+28:23
+complex information structures well we
+28:32
+what do we mean by operate well compose
+28:38
+study modify as the place we started now
+28:40
+we know there are many other analytic
+28:42
+liens you to do but we want to get
+28:43
+around study and modify and then to
+28:48
+further information about what is
+28:50
+complex structure mean we're talking
+28:53
+about complex structure and emphasizing
+28:57
+structure because we say although the
+28:59
+content represents your concepts there's
+29:02
+a structural relationship between that
+29:04
+content entities that should represent
+29:07
+the relationship between the concepts of
+29:09
+human thought alright we know can do
+29:12
+that very well with linear text so
+29:15
+inside the computer we can represent
+29:16
+that quite well in fact we can represent
+29:20
+information structures in a computer
+29:22
+that would generally be more far too
+29:24
+complex for you to study directly but
+29:27
+nls serves as a tool to roam over that
+29:33
+navigate through a complex structure be
+29:37
+able to find your way be navigating move
+29:39
+about it rapidly they will see what you
+29:41
+want to see at any given point how we
+29:44
+think and then LS as a tool alright
+29:47
+these are all very important concepts to
+29:49
+us because these together the
+29:50
+bootstrapping that told us where to
+29:53
+start we start by building an instrument
+29:55
+that we can sit at work during our day
+29:57
+to organize the kind of working
+29:59
+information we need is a task force
+30:01
+developing systems will need to write
+30:04
+our specifications our plans our
+30:06
+programs our users guides our
+30:09
+documentation our reports and even our
+30:12
+proposals so we've been using these when
+30:17
+you return back here and said I finished
+30:21
+that version and to help you keep track
+30:23
+of where we are and in a little bit to
+30:26
+help me to we'll move that down so
+30:31
+having gone through these items I'd like
+30:33
+to come in now begin to telling you
+30:35
+something about the implementation so
+30:38
+I'm going to open up under here and talk
+30:44
+to you about the control techniques
+30:46
+control devices control dialogue and
+30:48
+control metalanguage that we're using ok
+30:54
+to talk about control devices we'll use
+30:56
+this overhead camera shot where you can
+31:00
+see the devices that I'm using is three
+31:04
+and they're not all standard we have a
+31:07
+pointing device called a mouse a
+31:09
+standard keyboard and a special key set
+31:12
+we have here and we're going to go for a
+31:14
+picture down in our laboratory in Menlo
+31:17
+Park and pipe it up that'll show you
+31:19
+from another point of view more about
+31:21
+how that Mouse works come in Menlo Park
+31:23
+ok there's Don Andrews hand in Menlo
+31:30
+Park and in a second we'll see the
+31:32
+screen that he's working and the way the
+31:34
+tracking spot moves in conjunction with
+31:36
+movements of that Mouse I don't know why
+31:40
+we call it a mouse sometimes I apologize
+31:42
+it started that way and we never did
+31:44
+change it alright as it moves up or down
+31:47
+or sideways so does the tracking spot
+31:49
+and the the principles for its operation
+31:53
+are quite easy to see you'll turn it
+31:55
+over Don can you hear me Don which turn
+31:59
+it over and we'll see right it's
+32:01
+principle is that there are two wheels
+32:03
+that roll along the surface but since
+32:05
+our right angles in kind of sharp edges
+32:07
+want to roll the other slide in one
+32:10
+direction each of it each of these
+32:12
+wheels controls through a potentiometer
+32:14
+with a voltage output sampled by an a/d
+32:18
+D converter the numbers taken in by the
+32:21
+computer at sample times as to what the
+32:23
+horizontal vertical components are to be
+32:25
+of where it should put the tracking spot
+32:28
+and as the mouse moves over surface then
+32:33
+each of those wheels either slide
+32:35
+sideways without rolling or
+32:37
+rolls an amount that very closely
+32:40
+duplicates the particular component of
+32:43
+horizontal or vertical in the net motion
+32:45
+it makes all right if you take a mouse
+32:50
+and move it to some closed trajectory
+32:52
+back to exactly the same point usually
+32:55
+the tracking spot will come back to
+32:57
+exactly the same place it was on the
+32:58
+screen and for that sense it wouldn't
+33:01
+work well if you're trying to trace maps
+33:03
+or other figures and diagrams but the
+33:06
+way we use it continuously inclusively
+33:09
+is to watch the screen and to follow it
+33:12
+around and we use this Pyrenees device
+33:14
+to move that tracking spot and your
+33:16
+honor in the tracking spot you really
+33:18
+don't care whether it follows exactly
+33:20
+this amount in fact we've had it at
+33:22
+times where our tracking device you had
+33:24
+to move in an arc like that to make the
+33:27
+spot that tracking spot go on a
+33:29
+horizontal line and people adjust it to
+33:32
+it and we go like that to go in a
+33:33
+straight line and wouldn't even know
+33:35
+that they were doing it other features
+33:38
+of the mouse are that it stays put I can
+33:41
+lift it and replace it without having a
+33:44
+spot change so I can adjust where I want
+33:46
+it for my comfort and these control
+33:50
+buttons on the top are used quite a bit
+33:51
+and I'll show you a little bit later how
+33:53
+some of those are used now the keyboard
+33:55
+in the middle is essentially a standard
+33:56
+typewriter keyboard except for a few
+33:58
+special keys out on the side the
+34:01
+computer knows it instantly when you hit
+34:02
+one and makes an appropriate response
+34:04
+this device over here is unique to us
+34:07
+and we always have to justify and
+34:10
+explain it we'll do it reverse order
+34:12
+I'll explain it first it provides for
+34:17
+you the one hand equivalent of what you
+34:20
+can do with a keyboard there are five
+34:22
+keys normally each finger sits on a key
+34:24
+and depressing any one key at a time
+34:26
+produces a character and any two keys at
+34:32
+a time also in fact any combination of
+34:36
+depressing of which there are 31
+34:37
+combinations so Don soon learns and can
+34:41
+type them it
+34:43
+rather insert it I see
+34:46
+select s
+35:06
+they'll offer you a character if I hit W
+35:10
+it'll say delete word the arrow moves
+35:13
+back and forth to give me feedback my
+35:16
+tracking spot changes that gives me
+35:18
+feedback now tells me since it's an
+35:21
+arrow that it's armed back and do
+35:22
+something we get a lot of feedback let
+35:26
+me restore a view like this to show you
+35:30
+this is more normally the way we work
+35:32
+with feedback up here or here I'm shown
+35:35
+not working that's an echo register that
+35:39
+normally gives you the last six
+35:41
+characters that you use oops not working
+35:48
+right the last six characters and left
+35:50
+shifts continuously so you can look up
+35:52
+any time and see what have I just struck
+35:54
+and that's very good feedback here are
+35:58
+characters that show me the different
+35:59
+viewing parameters few specs they get
+36:03
+large at times in which I can add hit
+36:07
+single strokes that change those view
+36:12
+parameters and each of those mean
+36:17
+something to me and they're being large
+36:19
+a particular times tells me I can hit
+36:21
+very quick abbreviation for changing the
+36:23
+view so I can say I'd like to go to
+36:27
+produce but I'd like to go to produce
+36:31
+they get big I like to say one branch
+36:33
+only and let me look just that low and I
+36:37
+see it oh I can say I'd like to see one
+36:41
+line only I can see so these ways I move
+36:46
+around the way I get feedback up here
+36:48
+the way I use both hands to coordinate
+36:50
+to tell the computer what command and
+36:52
+what's short literals I want are all
+36:55
+carefully designed to go together to
+36:57
+make the repertoire
+37:08
+we talked about the devices and now the
+37:10
+nature of the dialogue or the kind of
+37:13
+feedback we get from the computer for
+37:15
+each of the discrete character strokes
+37:17
+and actions that the user goes through
+37:19
+when he's making when he's executing a
+37:22
+command so that system is really
+37:24
+represented to a user by the repertoire
+37:27
+of commands he has by the function of
+37:30
+each of those commands and by the
+37:32
+control dialogue he has for each of them
+37:36
+so they all together going and making a
+37:39
+design and to do it well you have to be
+37:42
+very careful about the nature of the
+37:43
+functions in that repertoire and the
+37:45
+nature of the way their control so we've
+37:49
+developed a very special language for
+37:51
+talking with extreme precision about
+37:54
+these control both the command functions
+37:58
+and the control dialogue for them a
+38:00
+little bit later when we tell you about
+38:03
+the programming Jeff you listen we'll
+38:05
+bring in some special examples to you of
+38:08
+the languages we've used actually to
+38:10
+program at high level these functions
+38:13
+and the control feedback that we get in
+38:16
+these control dialogue but that's what
+38:19
+we're going to call the control metal
+38:20
+language in there let's see how we're
+38:22
+doing here okay let's move our little
+38:28
+marker to say we've now gotten control
+38:31
+techniques by us and let's talk about
+38:34
+implementation of our online system I
+38:36
+put over here a reminder when I jump to
+38:39
+here
+38:39
+I want the view on below up to unfold in
+38:43
+a certain way so I just told myself hit
+38:46
+those parameter specs when this is large
+38:49
+and then execute and yes I see that
+38:51
+underneath I am going to talk next about
+38:53
+hardware design and then software design
+38:56
+and that's going to be done by Jeff
+38:58
+Wilson from mineral park hardware design
+39:01
+inviting me to jump on a link here aha
+39:07
+he told me there wasn't such a thing as
+39:10
+a link under there
+39:11
+bring me back remembering how I should
+39:13
+have gone through this to go down
+39:15
+another level in hardware design there
+39:18
+are two features we want to talk about
+39:20
+here to bring out to you the way in
+39:22
+which we've gotten the kind of
+39:23
+responsiveness and flexibility we need
+39:25
+in this instrumentation environment so
+39:29
+way often bill English's file bill was
+39:32
+responsible for the design of all of our
+39:34
+hardware there's an outline he made of
+39:38
+the way the controllers work for the i/o
+39:41
+controlling now from this line to the
+39:45
+right at things that we added to a
+39:49
+conventional STS 940 system and this is
+39:53
+the swapping drum it's got two buses
+39:55
+working accessing - for 16 K banks the
+40:00
+CPU has one bus and the peripheral
+40:03
+equipment has another and the good work
+40:05
+of project genie at Berkley an our
+40:09
+project that evolved in 940 time-sharing
+40:12
+hardware and software produced a very
+40:15
+neat priority system on this bus such
+40:19
+that it can say I'll defer my access to
+40:23
+a given Bank until the CPU doesn't want
+40:25
+it or I'll defer it once or twice or
+40:28
+three times but then I really need it to
+40:30
+give me priority in that way this bank
+40:33
+can strip in memory many many accesses
+40:35
+to these while the CPU is hopping from
+40:38
+bank to bank and its successive accesses
+40:41
+we've taken advantage of that to put all
+40:43
+of our control out here a large 96
+40:46
+million character Bryant disk forgiving
+40:49
+backup storage for ourselves our to
+40:51
+display systems each of which drives six
+40:54
+displays and all of which are refreshed
+40:57
+out of core and the input controller
+41:00
+which samples the keyboards the key sets
+41:03
+the mice of each station about 15 times
+41:05
+a second and our printer and the Opera
+41:08
+Network coupling here all come in
+41:09
+through that same priority basis so they
+41:13
+can all be working full tilt and we find
+41:16
+that we get very low in
+41:18
+ference and cpu cycles being interrupted
+41:20
+or interfered with something like a
+41:22
+ratio maybe one to one and a half
+41:24
+percent here that it can't get one wants
+41:27
+to when this might be running 50 60 70
+41:29
+percent of the available memory cycles
+41:31
+that it can handle all right the input
+41:36
+controller stuffs it into core without
+41:39
+over interfering with the CPUs process
+41:41
+and then just interrupts a time-sharing
+41:42
+system if there's something new and says
+41:44
+they take care of this user and the
+41:47
+display system reads out of core and it
+41:49
+treats from a tree structure like set of
+41:51
+links to cycle itself automatically and
+41:55
+take all that material out put it to
+41:57
+this place something like 15 times a
+41:58
+second without any interference from CPU
+42:01
+requirements all right so that system is
+42:06
+allowed us at one time sharing computer
+42:08
+take care of a lot of stations let me
+42:11
+talk to you about the display systems
+42:13
+the other aspect of the things that
+42:15
+we've built on here that are slightly
+42:17
+unusual
+42:21
+all right
+42:23
+for that I'd like to switch two men
+42:24
+apart and get a view from a camera
+42:26
+they're actually looking at the hardware
+42:30
+so these are the units that develop the
+42:32
+displays the computer constructs it
+42:35
+right on a small high-resolution CRT
+42:38
+which you're focusing in on right now
+42:40
+and in fact that's the CRT whose camera
+42:44
+on the right looking at is generating
+42:47
+the text view that's being piped down
+42:48
+here in my console so as those are faded
+42:51
+in and out between the two you can just
+42:53
+sort of compare them so that's very nice
+42:56
+there's my mouse moving around in Menlo
+42:58
+Park
+42:58
+my tracking spot so our displays work
+43:01
+with those being watched by commercial
+43:03
+cameras look at my black bag commercial
+43:08
+TV cameras 875 line scanning rates of
+43:11
+the fairly high resolution look at that
+43:12
+from there and out to the display
+43:14
+station a standard video microwave
+43:17
+system if we're back up the camera shot
+43:20
+a little bit we'll see that we have a
+43:22
+whole rack full of equipment here
+43:24
+serving 12 of them but you'll notice
+43:26
+quite a lack of cameras mounted on we
+43:29
+seem to have stolen them all for the
+43:31
+show so we only have several consoles
+43:35
+that work right now because the cameras
+43:36
+are mounted to give you these different
+43:37
+special views all right there quite a
+43:42
+few advantages we use this particular
+43:45
+display system Hardware technique pretty
+43:48
+much as a an expediency for an
+43:50
+experimental system we had to build we
+43:53
+originally were going to build storage
+43:55
+tube displays into here but we couldn't
+43:57
+get them delivered a year and a half ago
+43:59
+when we really had to firm up our design
+44:01
+so we as an experience he went to this
+44:04
+ram has been developing some very nice
+44:07
+video stuff they were kind enough to
+44:09
+show us how these these controllers and
+44:13
+all would work with video so we went
+44:14
+ahead with this very simple brute force
+44:16
+way of having them video signal
+44:18
+generated by looking at a small CRT well
+44:21
+it turns out that that means CRT its
+44:24
+incremental cost the video camera
+44:27
+and a monitor total about $5,500 which
+44:31
+is cheaper than most fairly good
+44:33
+resolution random deflection display
+44:35
+monitors would be so they come out well
+44:36
+on the price of the hardware turns out
+44:39
+that also that the cathode of the camera
+44:42
+tube in in just black-and-white usage
+44:47
+like this you can back off the scanning
+44:51
+current of it so that it's a sticky
+44:53
+cathode so that actually it doesn't
+44:55
+erase the image on it by each sweep it
+44:58
+may take three or four scans and so with
+45:00
+something like a fifteen cycle a second
+45:02
+refresh rate on those CRTs the camera
+45:06
+the one that's generating this is the
+45:07
+well was the one we looked at it with a
+45:09
+few minutes ago have short term storage
+45:12
+in there it's quite different from long
+45:13
+persistence but gives us the flicker
+45:16
+free display here for quite a flicker II
+45:19
+display there this lets us use that
+45:21
+displayed generation hardware for three
+45:24
+to four times as many display stations
+45:27
+as otherwise you'll notice if we get
+45:30
+just the text alone that there's a small
+45:32
+effect by that bug smearing but it's not
+45:35
+that bad and that comes from the memory
+45:39
+in the vidicon too
+45:43
+okay so much for that I'd like now to
+45:46
+have us bring in Jeff Wilson from Menlo
+45:50
+Park and we'll switch to his console
+45:52
+he's sitting one just like this been
+45:54
+working independently hi Jeff
+45:57
+we're not hearing it very well you're
+45:59
+not hearing me how about now that's fine
+46:01
+okay all right I'm sorry you can't see
+46:04
+everybody here but I can't very well
+46:05
+neither because of the lights so Krabat
+46:08
+even okay I'd like you to talk to them
+46:12
+about the way the special languages have
+46:15
+helped in making flexible design and
+46:19
+study available for us of the user
+46:21
+features the functions and the
+46:23
+repertoire of the commands as well as
+46:25
+the control dialogue for them and then
+46:29
+also it'd be an interesting example here
+46:32
+because programmers new programmers are
+46:35
+the ones who most intensively found use
+46:38
+for working online as we're building up
+46:40
+show them how you structured the your
+46:44
+system guide okay okay I think we can do
+46:50
+that we can get sort of a good feeling
+46:54
+for the way the whole system is put
+46:55
+together by looking through the system
+46:56
+guide the the file is one that system
+47:01
+programmers sort of put together help
+47:03
+them get around
+47:04
+NLS right now it didn't be a fairly
+47:07
+large program it's not huge by a lot of
+47:09
+standards but it is getting pretty big
+47:14
+this picture in our system guide file is
+47:17
+a picture of the overlay structure on
+47:20
+our overlays our page sizes so they're
+47:23
+not too big in the 940 but each each
+47:26
+label in this picture names a code file
+47:29
+and each each one is oh-three to 20
+47:33
+pages long I mean 20 text pages if you
+47:35
+printed them out just to sort of show
+47:38
+how can use a file like this to move
+47:42
+around in the code and also how the code
+47:43
+is put together as I said each jump each
+47:50
+label in the picture is the name of an
+47:53
+overlay which is also the name of that
+47:55
+file but it also happens to be the name
+47:57
+of a statement in this file by selecting
+47:59
+one of these pictures and moving there
+48:01
+oh I was going to do something for you
+48:04
+to let you see better
+48:08
+what did I do go back to the origin
+48:12
+start will bringing back all the
+48:13
+parameters there now let me move up from
+48:24
+the picture I can move to a little
+48:25
+section in this file which is an area
+48:27
+that system programmers leave around
+48:28
+notes for each other it's nothing much
+48:32
+interesting here a little bit about the
+48:34
+documentation in the patch space that's
+48:36
+left right from this spot I can actually
+48:39
+move on to the file suppose that I were
+48:41
+going out that control metalanguage Doug
+48:43
+was talking about just try to see for
+48:46
+example the routine used in the delete
+48:51
+word or move word let's go look at move
+48:53
+word construct I just select this link
+48:55
+and here is the file this file is
+48:59
+written in a one of these many special
+49:02
+languages that we've designed so I just
+49:05
+move down through it find the move
+49:07
+command move let's look here for move
+49:15
+word you want to point out how you know
+49:17
+it's move word yeah I was just going to
+49:19
+look at that Doug as I was stepping down
+49:24
+to that I was sort of not only moving to
+49:26
+the file but the structure of the of the
+49:29
+code is rigged in such a way that it's a
+49:33
+description of a finite state machine
+49:35
+and
+49:35
+so I was following the character as a
+49:37
+person would type to execute that
+49:39
+command down here underneath that I see
+49:41
+that the routine is qmw over in the
+49:45
+overlay TextEdit so let's go back to
+49:48
+that other file move back to our picture
+49:53
+again and find where overlay text edit
+49:55
+is it's right down here so we'll go and
+50:01
+sort of move down to that one the the
+50:07
+text edit overlay illustrates a lot of
+50:10
+the different kinds of things that we've
+50:11
+done this file has two major kinds of
+50:14
+code in it
+50:15
+first one is many of these different
+50:17
+special languages that we've built up
+50:20
+see I'm trying to find qmw that's right
+50:25
+so down here someplace
+50:30
+there we go let's see oh yeah the two
+50:37
+kinds of code this is still the kind
+50:40
+from the other file but the qmw routine
+50:44
+the first subroutine the second
+50:46
+servicing that it calls which is sort of
+50:48
+interesting is moved word for word
+50:50
+delimiter I'm sorry this routine is
+50:52
+written in our content analysis language
+50:55
+and it takes a text string and finds the
+51:00
+definition of a word without for
+51:02
+punctuation and it finds any special
+51:05
+blanks around it and finds pointers that
+51:06
+describe that word another interesting
+51:09
+one is the next subroutine here we look
+51:13
+at it it's in another special language
+51:15
+that we've built up it takes the
+51:18
+pointers left over from the delimiter
+51:21
+routine and the text in the file and
+51:23
+reconstruct the statement after the
+51:24
+edits been done let's see where was I in
+51:30
+this file the other portion of the file
+51:37
+is is written in the language that we
+51:39
+call mo l stands for machine oriented
+51:41
+language the the mo L is a in a sense
+51:51
+it's a high-level language and it has
+51:53
+great structure and good control
+51:56
+constructs like if statements and well
+51:58
+statements but it's also very very close
+52:00
+to machine language 940 machine language
+52:03
+people talk about the actual registers
+52:05
+of the machine and you talked about
+52:07
+doing indirect addressing this language
+52:11
+has helped us write the kind of fast
+52:14
+tight code that we want that we have to
+52:16
+have to operate in the time sharing
+52:18
+system and at the same time it's given
+52:21
+us a lot of flexibility of
+52:25
+it's also the phrase structure of the mo
+52:27
+L designed to sort of mesh with the blog
+52:31
+structure of nol and LS so they've got a
+52:33
+wild statement to see what's in that
+52:35
+wild statement I can move down and see
+52:38
+it's three statements which is an if
+52:39
+statement the if statement is two is a
+52:44
+single if statement which has an infant
+52:46
+an else part not whole block opens up to
+52:50
+all of that so by using the mo L like
+52:53
+this I'm able to move around very
+52:55
+quickly in my mo L files also able to
+53:00
+sort of zoom in and out of things one of
+53:03
+the besides the sort of program
+53:09
+organizational benefits that we get from
+53:11
+designing all the social purpose
+53:12
+languages we've been able to design the
+53:15
+syntax of these languages so that they
+53:18
+fit with our linking structure and the
+53:20
+conventions that we've set up in the age
+53:22
+we built to help us in NOS itself to
+53:25
+move around between them one of the ways
+53:29
+we've managed to implement all of these
+53:33
+languages is by designing a compiler
+53:37
+compiler which we call tree meta all of
+53:42
+our compilers are written in tree meta
+53:44
+I'd like to add that we're very thankful
+53:46
+to some people assistant Development
+53:49
+Corporation for helping us get started
+53:51
+on one of the notions in tree meta urban
+53:53
+book and Val Schori were just invaluable
+53:55
+in helping us get started
+53:58
+the by having all of our compilers in
+54:02
+written in a in a high-level language
+54:06
+themselves we've been able to change
+54:07
+them all the time so we're not only able
+54:10
+to quickly modify the syntax of the
+54:15
+control language for nls itself or the
+54:18
+meanings of of the commands by by
+54:21
+working in our high-level language but
+54:23
+we're also able to go in and just change
+54:25
+the compilers as quickly as we have to
+54:28
+accommodate all sorts of new hardware
+54:29
+features and experimenting that we do
+54:31
+like that in a system guide file there
+54:34
+were three sections the first one
+54:37
+serve this program structure in the
+54:39
+picture and those fast links we looked
+54:40
+at we're sort of age that the system
+54:43
+programmers have built up to just move
+54:45
+back and forth and leave notes second
+54:48
+section here is on retrieve 'l think
+54:49
+i'll let that go for a while right now
+54:51
+the third section more notes that
+54:56
+programmers leave around about bugs
+54:59
+things that are wrong with our system
+55:01
+right now I got my blank line on hundred
+55:05
+I well anyway one of the interesting
+55:09
+things that n LS does just an advantage
+55:11
+of being online is it keeps track of who
+55:13
+you are and what you're doing all the
+55:14
+time so on these statements on
+55:20
+everything every statement that you
+55:22
+write it keeps track of who you are and
+55:23
+when you did it so not only can people
+55:26
+leave notes around for each other but
+55:28
+sort of automated and how they automated
+55:31
+eight here that tells us who did it when
+55:33
+they did it I can set up search patterns
+55:37
+I think these will probably be talked
+55:38
+about later so that sort of summarizes
+55:42
+what the thing looks like and how its
+55:44
+put together is there anything that I
+55:48
+haven't talked about Doug that we were
+55:50
+supposed to bring up I I think you
+55:52
+wasn't getting my notes right here
+55:54
+you're doing very well Jeff Thanks you
+55:58
+ought to see yourself with a 15-foot
+55:59
+face I'd like to okay
+56:05
+I guess I'll just turn it back to you
+56:07
+then I might add that people want to
+56:11
+come up to our room sometime we're more
+56:13
+than anxious to talk to people about
+56:14
+languages and meta compilers and all of
+56:17
+the games assistant programmers like to
+56:18
+play so I think I'll sort of turn it
+56:22
+back with that well Jeff can you how
+56:24
+about going back to that place in the
+56:26
+control meta language before you start
+56:28
+down the dialogue protocol person would
+56:31
+use okay right over here in main control
+56:36
+yeah
+56:39
+and off to another file where we're
+56:42
+looking at real code now and there's a
+56:44
+branch of it down there yeah they start
+56:47
+on trans or all subroutines that are
+56:49
+pretty meaningless and it's bill be a C
+56:50
+means what case and it's what what's the
+56:52
+person going to ask for so open that one
+56:55
+level down right now all those things in
+56:58
+parentheses that in LS are the names of
+57:01
+those statements are actually in the
+57:03
+programming language it works here the
+57:05
+way it's identified that's the character
+57:07
+or user hits if he hits a D for instance
+57:09
+a D here for delete right there
+57:12
+alrighty it's a deed that line tells you
+57:14
+what the response is supposed to be the
+57:16
+computer supposed to display certain
+57:19
+material on top of the screen and then
+57:21
+it's supposed to wait until the user
+57:24
+does the next thing why don't you trim
+57:26
+it to one line uh yeah it's going to do
+57:29
+that why doesn't my branch only work oh
+57:32
+that's all that branch ok good EBT well
+57:41
+it's easy ok I don't want to insult you
+57:45
+by saying that it's easy to get a new
+57:46
+view the da no to say I then if he's hit
+57:52
+a D and it sets up what it says there
+57:53
+you can uh pump one level below it and
+57:56
+that's the next block down in this
+57:59
+special language and you see well if
+58:01
+after the D he hits something else like
+58:03
+a W it goes on from there to say what it
+58:06
+is the pewter supposed to do in response
+58:08
+so this language here in its
+58:11
+hierarchical structure resembling the
+58:13
+branching tree of choices user user
+58:15
+makes specifying at every point what the
+58:17
+computer does in feedback and the
+58:19
+optional choices and down in the end
+58:21
+then specifying the actual function like
+58:23
+deleting a word what's a word and what
+58:25
+do you mean by delete and for what's a
+58:27
+word that's specified off of a
+58:29
+subroutine he showed you in a special
+58:31
+language to find in there what a word is
+58:34
+and it doesn't take a lot of programming
+58:36
+skill they learn how to read these
+58:38
+languages because they're at the concept
+58:40
+level almost where the user wants to
+58:42
+work and so for us in our experimental
+58:44
+environment our users are beginning to
+58:46
+learn this so that we can look at that
+58:48
+to find out how the system works
+58:51
+somebody's English text translation on
+58:55
+specific though maybe well Jeff you did
+58:58
+a great presentation especially the last
+59:00
+part thank you
+59:02
+thanks very much we'll come back now and
+59:06
+I'll get my prop with my text and we'll
+59:08
+go on to talk about some of the oh no
+59:12
+wrong text right day thank you very much
+59:18
+well remember that we were talking about
+59:22
+hardware and software implementation and
+59:25
+if we go all the way back we see that we
+59:28
+finished control implementations control
+59:31
+techniques and implementation and let's
+59:33
+move on to the marker down here to keep
+59:35
+track of where we are we're ready now
+59:37
+I'd like to run through some of the ways
+59:39
+in which we actually have used this the
+59:42
+programming itself represents a very
+59:44
+good example for me we're falling from
+59:48
+the basic philosophy that concepts come
+59:50
+in structure and you'd like to structure
+59:52
+your database your information base that
+59:55
+way and have a tool of getting around it
+59:57
+I think that the way we've got our
+59:59
+records for our programming organized
+60:02
+and then the special languages using a
+60:04
+hierarchy using the names of places in
+60:07
+there as labeled two statements so both
+60:10
+nls treats them as a name it can jump to
+60:12
+the compiler that compiles those files
+60:14
+we were looking at treats those as the
+60:16
+labels for those subroutines and
+60:18
+procedures it all makes a very nice way
+60:20
+to study and integrate and it's very
+60:22
+powerful exciting sort of thing to show
+60:25
+I hope people do come up to open house
+60:28
+and look at that let me go down here and
+60:31
+open up under usage and say first some
+60:34
+application examples user documentation
+60:39
+is a straightforward sort of use if you
+60:43
+were a user here and came and sat down
+60:45
+early you'd want to get familiar with
+60:47
+this file let's go look Dave castro's
+60:50
+has written a user's guide so down the
+60:52
+hall and Dave caster's his office in his
+60:54
+drawer pulling out the file we go and
+60:56
+there you see it the top view of it with
+60:59
+the sort of the outline but I'm
+61:02
+interesting interest
+61:03
+just showing this view very quickly you
+61:07
+want to find out the definitions of a
+61:09
+lot of terms you're sort of a glossary
+61:10
+well let's do the thing called freeze a
+61:13
+statement and then oh and say put that
+61:16
+at the top and won't be hold that
+61:18
+statement now it's going to be frozen in
+61:20
+our display scanning windows from the
+61:22
+dotted line down and then we know about
+61:25
+names and jumping to name and so we can
+61:27
+say what's a bug Oh down here tells you
+61:31
+what a bug is I see well let's see
+61:39
+what's the level select level tells you
+61:44
+what level is what's what's a mouse
+61:47
+that's fun to look at there's a mouse
+61:49
+you can just point so you can set here
+61:51
+in point to successive terms and it goes
+61:54
+there the scanning window goes there the
+61:56
+frozen glossary stays and you can see
+61:59
+the definitions very nice and some of
+62:01
+the definitions you can recognize terms
+62:02
+here that's an odd one maybe that's the
+62:04
+name let's just see Oh
+62:07
+sure enough it's a sketch showing the
+62:09
+mouse and the mouse buttons very nice to
+62:12
+have documentation like this and you as
+62:14
+a user could sit down and early find
+62:17
+your way around in this to find the
+62:19
+definitions descriptions procedures for
+62:21
+commands and all like that so let me go
+62:26
+back to my guide
+62:31
+and say the next thing you want to study
+62:35
+or modify papers all right it happens to
+62:37
+be that we wrote a paper for these
+62:39
+proceedings it's in the files there it
+62:42
+is
+62:43
+top level see it's interesting to study
+62:45
+something like that what does they have
+62:46
+to say about user systems go to there
+62:48
+open up a level I only want to see that
+62:51
+branch
+62:51
+Oh what about file studying open that up
+62:54
+Oh specification is a form of view what
+62:58
+about that let's just open it all now I
+63:00
+can read it gee that's an interesting
+63:02
+way to study this material incidentally
+63:06
+was organized for printing and printed
+63:07
+out and it's from this file directly we
+63:10
+printed out printed it out on the form
+63:15
+we sent to the to the printers and these
+63:19
+things up in here these three letters
+63:21
+and equals our special directives we
+63:24
+embed in our text so when the output
+63:25
+processor does it it puts in things like
+63:28
+headers like this says make the header
+63:29
+on every page BGC Engelbart abstract
+63:31
+that's prescribed form the number
+63:34
+between lines double-spaced it all these
+63:37
+others have characteristics get write
+63:39
+justification page numbers all kinds of
+63:41
+control in there all right so much for
+63:44
+paper writing well print out directives
+63:47
+I feel a little rushed for time I'm
+63:49
+going to skip that that can show you a
+63:52
+guide of all the directives for printing
+63:56
+out if you were user you'd want to go to
+63:57
+that so you can have links to it joint
+64:00
+file usage is something that is very
+64:02
+powerful here I went off to a file that
+64:06
+we were working on as we were getting
+64:08
+ready the early parts of this
+64:10
+presentation and it was a message it was
+64:12
+a something that three of us used a lot
+64:15
+between us to coordinate the planning
+64:17
+tasks contingency plans the special
+64:19
+needs and nls for the fall joint things
+64:22
+like that we developed a message
+64:23
+technique so we could be messages for
+64:26
+each other under their usage conventions
+64:30
+and let me just tell you about that
+64:32
+underneath here we direct messages to
+64:35
+each other that we can unfold and see
+64:38
+but many times you didn't want direct
+64:41
+messages
+64:42
+as much as you just like to go through
+64:44
+and leave a message for somebody so we
+64:46
+worked out that the conventions would be
+64:49
+where as an example the exact the
+64:53
+convention we're going to use is that we
+64:55
+would send a message to guy if I want to
+64:59
+send Bill English wke a message I would
+65:03
+put that in the file wke from DCE
+65:08
+with that pound sign in between so any
+65:11
+statement the smart like that means
+65:13
+there's a message to him from me if I
+65:15
+want to I can say it's also was also for
+65:18
+Dave Evans like that so that's from me
+65:22
+to both of them all right we have this
+65:24
+thing we call a Content analyzer Jeff
+65:26
+mentioned briefly in which we can write
+65:28
+expressions in a language let's just
+65:32
+come down here and look here's a little
+65:39
+expression in a special language that
+65:42
+means I'm going to look for mr. xxx a
+65:44
+message from him all right what if I say
+65:47
+I want that xxx to be DCE
+65:49
+that says someplace in there I want to
+65:51
+find that pound sign and DCE so with a
+65:56
+little compiler I'm safe from there
+65:58
+compile it comes back and says I did it
+66:00
+okay and now I can say all right only
+66:03
+show me the statements that passed the
+66:05
+test that someplace in them they have
+66:06
+that string there they are so whenever
+66:10
+one of those that's from DCE BCE can go
+66:13
+down and look for it how this one you
+66:16
+know here this is to anybody from DCE
+66:18
+and I can say well turn off that filter
+66:21
+how about for so-and-so so I can say all
+66:25
+right this is for wke a message for Bill
+66:28
+the rest of this pattern here says it's
+66:31
+got to be followed by any number of
+66:34
+commas and letter triplets but
+66:36
+eventually by a pound sign or it doesn't
+66:38
+go
+66:39
+well let's compile and see okay pass the
+66:43
+test all right
+66:45
+there's her wke for wke for him and a
+66:49
+dummy okay so oh it wasn't through
+66:57
+searching think about time sharing
+66:59
+computer is that once in awhile it gets
+67:05
+it gets being asked for business from
+67:08
+other places if the response we want
+67:10
+runs into a fair amount of computation
+67:12
+we run into other people will bump us
+67:14
+off to do it and so sometimes it will
+67:16
+take a while to filter through all the
+67:18
+patterns that content analyzer
+67:34
+sometimes
+67:42
+if I'm disabled slightly because this
+67:45
+needs to be hung up in the wrong place
+67:47
+I'll have to run by the keyboard that's
+67:49
+a real bag yeah you know I'm so used to
+67:53
+working with one hand and this that I
+67:56
+can hardly remember what to do on a
+67:57
+keyboard anyway I want to go back to the
+68:01
+file the other guys the other end the
+68:04
+time charting system we're going to go
+68:05
+in and see why I hope some hardware guys
+68:07
+ought to I want to bring in that file
+68:11
+and the categories we have set up for
+68:14
+these people
+68:16
+well that means rolls they're going to
+68:19
+play and that they can play and want
+68:22
+their open house duty or the duty back
+68:23
+in Menlo Park during those two days
+68:25
+they're going to be this is a turn so
+68:36
+under here on the rolls we have quite a
+68:38
+few rolls somebody played just
+68:39
+coordinating that knows an LS software
+68:41
+there was a time sharing software the
+68:43
+knows the display hardware the
+68:44
+transceiver hardware user references we
+68:47
+need to cover those at each session and
+68:49
+we also say they're these different
+68:51
+sessions available well let's jump down
+68:54
+how I do from jump down and look at this
+69:02
+duty roster again where we look
+69:04
+underneath each guy and we realized we
+69:06
+put a bunch of these code terms under
+69:08
+there to say okay that's minimal part
+69:11
+Tuesday morning open house Tuesday
+69:12
+evening mineral park Wednesday morning
+69:14
+he knows then LS and time sharing system
+69:17
+so these are the categories and now I
+69:19
+can go back and using that using that
+69:25
+content analyzer sort of thing I can set
+69:28
+myself up fairly nicely with special
+69:35
+patterns like I can say here's a pattern
+69:38
+all set up so it'll say I want to see
+69:41
+those people that are open house Tuesday
+69:43
+evening so I just can compile
+69:46
+I can pile out successfully I say all
+69:51
+right let's see it so it does says open
+69:56
+head Tuesday evenings open house Tuesday
+69:59
+evenings Andrews Evans upon head you'll
+70:03
+have to give me forgetting slightly
+70:05
+rattle when this thing starting to give
+70:07
+me trouble alright these four people are
+70:09
+on Tuesday evenings that's very handy if
+70:11
+I want to I can go to a view that only
+70:15
+shows me what category I was filtering
+70:18
+out and I can use another thing I call
+70:20
+markers I haven't told you about maybe
+70:23
+before you notice that many times when
+70:26
+I'm doing something to operate on
+70:28
+cemented II I use this bug to point
+70:30
+directly well it so happens we have a
+70:33
+feature we call marker such that any
+70:35
+place in a given file I can place a
+70:37
+marker on a character and give it up to
+70:40
+a three-letter name then at any time in
+70:42
+any command where it's appropriate to
+70:44
+point and push this right-hand button to
+70:46
+say select I can hold the button down
+70:48
+and enter that name and let the button
+70:50
+up and instead of it taking the
+70:53
+character I'm pointing at with this bug
+70:55
+it takes the coin takes the character
+70:59
+for an operand that I had named and I
+71:02
+put that marker on a name so off
+71:04
+someplace I've got markers on patterns
+71:06
+already set up 400 T e open house
+71:10
+Tuesday evening and such so I can say
+71:12
+execute compiler from here and I can
+71:15
+type in open house Wednesday afternoon
+71:19
+OWA and say execute it says I did I say
+71:23
+all right let's see what you've got open
+71:25
+house Wednesday afternoon these are the
+71:27
+people that are going to be there Oh
+71:29
+what about open house Wednesday or
+71:32
+Tuesday evening the OT e execute open
+71:38
+house Tuesday so these kind of pattern
+71:41
+matches and markers and freezing
+71:45
+statements and jumping on things give us
+71:47
+a great deal of power jumping around and
+71:49
+moving jumping around and study
+71:53
+right okay I there are other things to
+71:58
+show here
+72:09
+I forgot that it didn't need to freeze
+72:12
+here all right design documentation for
+72:16
+our hardware in system analysis records
+72:17
+I'll just jump very quickly to that just
+72:19
+to show you that we use the same kind of
+72:22
+structured stuff in the design of our
+72:24
+hardware where here is the design of a
+72:27
+buffer register and these are the
+72:29
+different components labeled by comments
+72:31
+in a language it's going to digest this
+72:33
+file and produce the wiring list we can
+72:35
+open up another level and see that
+72:37
+underneath of these are all the logical
+72:39
+equations we can come in just as quickly
+72:41
+as anything search down jump search for
+72:43
+different patterns jump on links modify
+72:46
+and put them out we compile them back
+72:51
+all right I think I'll jump skip the
+72:55
+rest of these because time is crowding
+72:57
+us and I'd like to go to a little
+72:59
+sequence here that is we a very
+73:01
+important one now you've seen most of
+73:05
+the way through here how this serves as
+73:07
+a very powerful tool for an individual
+73:09
+to work when he's studying doing is
+73:12
+planning designing debugging documenting
+73:15
+but we also saw to the medium of leaving
+73:18
+messages for each other and filtering
+73:20
+them that people can collaborate quite
+73:22
+well over a period of time by working on
+73:24
+joint files in fact you can have a joint
+73:27
+file and go leave a message and get a
+73:29
+response in a matter of minutes because
+73:31
+they're all available instantly by
+73:33
+anybody from one of these terminals but
+73:35
+there's another degree of collaboration
+73:37
+which is very important in which we're
+73:40
+just going to be setting up in the next
+73:43
+few months the hardware to do computer
+73:45
+eight but here we're going to set it up
+73:47
+with a little bit of people aid too so
+73:50
+I'm going to establish a collaborative
+73:52
+mode between me and another terminal
+73:54
+bill paxton is that a terminal back at
+73:57
+SR I and the first thing I do to do that
+74:00
+of course would be say hey I'm granular
+74:03
+oops
+74:05
+to call this command we have to go into
+74:09
+the executive mode and set executive 'ti
+74:12
+to a special level
+74:20
+and then continue with an LS so that
+74:26
+free demonstration some of the
+74:28
+versatility alright
+74:30
+special command I'd like to link to Bill
+74:33
+and I don't know what his terminal is
+74:36
+right now so I have to ask for somebody
+74:38
+connect me to him audibly audio Lee so
+74:42
+bill will you come in through this
+74:43
+intercom hello duck i I I need to know
+74:47
+what terminal you're on bill thirteen
+74:49
+okay I'd like to have him see my text
+74:52
+and so this special thing if I label
+74:55
+thirteen we'll switch switch over so on
+74:59
+his display he sees my text so I'll
+75:01
+execute it and sure enough it does but
+75:04
+what's that running around well he's
+75:06
+looking in my text he'd like to have
+75:08
+something to say about it so we put on a
+75:10
+marker a tracking spot that he controls
+75:13
+so he's sitting in Menlo Park looking at
+75:14
+this text and he can point to it but we
+75:17
+carefully reserved for me the right to
+75:19
+control or operate on this so my bug is
+75:21
+more powerful in yours but we can have
+75:25
+an argument yeah over words
+75:28
+that's they call a bug fight so all
+75:33
+right so in case you have a listening
+75:36
+bill we've been going through lots of
+75:38
+examples and setting up in collaboration
+75:41
+here so that we can go on into
+75:44
+information retrieval and we set up now
+75:47
+audio coupling and we're both looking at
+75:49
+the same display and that'd be very
+75:50
+handy to work we can talk to each other
+75:52
+in point and maybe later I can hand you
+75:54
+the chalk on this blackboard like saying
+75:56
+here you control it but let's status
+75:57
+mode now and add another feature that
+75:59
+hardware-wise is available to the kind
+76:01
+of display we have I'd like to see you
+76:03
+while I'm working on it
+76:05
+so before I can do that I have to set up
+76:08
+my display in a certain way set it up so
+76:14
+it I see it over like that that leaves a
+76:17
+corner up there and I say now computer
+76:20
+do the automatic switching that will
+76:21
+bring in a camera picture from the
+76:23
+camera mounted on his console such as
+76:25
+the camera mounted on - hi bill that's
+76:28
+great now we're connected audio you can
+76:31
+see my work you can point out it and I
+76:33
+can see your face and we can talk so
+76:35
+let's do some collaborate you're silent
+76:39
+Oh
+76:40
+what do you want me to say key huh
+76:42
+there's nobody here but a large audience
+76:44
+go all right all right so let's so let's
+76:49
+go talk about information retrieval and
+76:51
+a lot of things I've been showing them
+76:54
+and jumping around and finding your way
+76:56
+relating back to the portrayal I gave
+76:58
+about MLS as an instrument on complex
+77:01
+data structures it shows them how we can
+77:04
+get around and find things I showed them
+77:06
+the content analyzers to help locate
+77:09
+things low key let's you had a file
+77:11
+kind of classifying retrieval stuff when
+77:14
+we switch to it yeah good
+77:19
+hey I can't point okay you on 13 or 12
+77:23
+well you're on 12 okay you had executive
+77:30
+you say you go where am I
+77:32
+there there you are right all right now
+77:36
+talking about hot retrieval Ursa you got
+77:41
+to defend that gonna give it to me
+77:46
+yep okay we've been talking about
+77:50
+retrieval all afternoon really that's
+77:52
+one of the main things you're involved
+77:55
+in doing every time you're changing a
+77:58
+view you're you're doing retrieval
+78:01
+really I've broken it up here into to
+78:04
+two main categories the first where you
+78:08
+have a known destination the second
+78:10
+where the destination is unknown these
+78:14
+really present two different problems
+78:16
+and there there are different commands
+78:19
+in the system naturally to take care of
+78:21
+these two different things
+78:22
+let's open this up take a look at what
+78:25
+we have under here oh good good both
+78:33
+direct and indirect the first where
+78:36
+you're making an explicit specification
+78:38
+and the second with implicit explain
+78:41
+what I mean by this in the first case
+78:43
+you're actually able to point it what
+78:48
+you want at the information you're
+78:50
+trying to retrieve and move it into view
+78:54
+with the jump to identity command you're
+78:57
+able to point at it either by by the
+79:01
+cursor or by using a pointer as you've
+79:03
+shown jump to name jump to link again
+79:06
+you're explicitly specifying by giving
+79:09
+the name or having the name occur in the
+79:12
+text for implicit specification by this
+79:19
+I mean using information that's been
+79:24
+stored by the system in order to specify
+79:26
+where you want to go in the first case
+79:30
+the information has been store
+79:32
+in the form of a memory of what you've
+79:35
+been doing recently so that you're able
+79:37
+to say jump - where - the view that I
+79:40
+just previously had so I can say jump
+79:43
+return and it'll take me back to the
+79:45
+view or jump return and I go to the view
+79:47
+that I had just before that or I can say
+79:49
+jump ahead and move back down again
+79:53
+jumps referring to the structure by this
+79:57
+I mean the structure of the file so that
+79:59
+you're able to say take me to the
+80:02
+successor of the statement I'm pointing
+80:04
+at our to the head of this branch things
+80:07
+like that content analysis we've covered
+80:10
+quite thoroughly let's go on to onto
+80:15
+this to the other main branch of
+80:18
+retrieval that we're talking about here
+80:20
+again I've broken it into direct and
+80:24
+indirect this is the case where the
+80:28
+destination is unknown when used by this
+80:33
+I mean you don't know where the
+80:34
+information is but you're able to
+80:36
+describe it
+80:37
+are you you know enough about it you can
+80:40
+find it either in a hierarchy or by
+80:44
+describing it with keywords by the use
+80:48
+of a hierarchy here I mean working down
+80:51
+through the hierarchical structure of
+80:53
+the file making use of the
+80:55
+categorization that's built into the
+80:58
+file this we've seen several times let's
+81:02
+just as another example to really make
+81:05
+this clear we've talked about the desire
+81:09
+to get hard copy of a file wanting to
+81:11
+get something printed out there's quite
+81:13
+a large system that takes care of giving
+81:17
+the heart of making a file for hard copy
+81:20
+you're able to specify how you want the
+81:23
+hard copy to look by getting various
+81:25
+directives one of the things you might
+81:28
+want would be Roman numeral page numbers
+81:30
+so let's go off to a directive file and
+81:33
+see what the directive is to get Roman
+81:35
+numeral page numbers I'm into the file
+81:39
+now here's the first level of the
+81:41
+hierarchy
+81:42
+let's open up page formatting we look we
+81:46
+want page numbering so we'll open that
+81:48
+up we find yes here it is Roman numerals
+81:51
+we find out the directive your bugs
+81:53
+right on it already don't here's the
+81:56
+directive we want so we work down quite
+81:58
+away into a hierarchy as you can see
+82:03
+this is quite a quite a nice way to be
+82:06
+able to very quickly find what you're
+82:08
+after let's go back to the previous file
+82:10
+now look at this last type by keywords
+82:15
+and associative reordering I mean the
+82:19
+use of terms from a specified vocabulary
+82:24
+to describe what it is that you're after
+82:28
+perhaps the best way to show this would
+82:32
+be just to draw a little picture the
+82:41
+the keywords can be selected from from a
+82:46
+list put the list over here you can have
+82:51
+any number of keywords I'll just put
+82:53
+down that to give the idea of what it is
+82:57
+and then we also group spelled out wrong
+83:03
+need any help
+83:04
+yeah how do you spell catalogue there it
+83:08
+is that close enough there'll be several
+83:13
+items in the catalog what we want to do
+83:16
+in its select things out of this catalog
+83:20
+what are the R stand for those are the
+83:25
+numbers that are used just like serial
+83:28
+numbers that's my own Dewey Decimal
+83:30
+System Howe any reference 3 reference
+83:32
+Ansel alright right okay and then the K
+83:35
+I guess would be keyword huh how's that
+83:38
+that's fine
+83:39
+each keyword then will point to various
+83:43
+items in the catalog so the first
+83:46
+keyword may point to those and then the
+83:49
+nth keyword will point to other ones and
+83:51
+there will be cases where they both
+83:53
+point to the same one when I select a
+83:57
+keyword I'm specifying that all of the
+84:00
+items in the catalog that it refers to
+84:02
+will be pulled out and given to me and
+84:07
+in the cases where I've selected several
+84:10
+keywords that refer to one particular
+84:12
+item that item will be given special
+84:15
+preference will be put at the head of a
+84:17
+list and then with that list of items
+84:20
+from the catalog we'll be able to use
+84:21
+the other forms of retrieval and jump
+84:24
+off and look at the items and then
+84:26
+continue the exploration
+84:28
+okay let's actually go ahead and do that
+84:31
+I'll go back to the systems guide file
+84:34
+we mentioned earlier that there is a
+84:38
+large part of that it's concerned with
+84:40
+with finding things this is our
+84:42
+documentation index for the NLS system
+84:45
+it's broken into the two parts the
+84:49
+catalog and the list of keywords
+84:52
+the catalog is just a long list that
+84:56
+goes off the screen that contains links
+84:58
+off to the various items in the
+85:01
+documentation there's actually an entry
+85:04
+here for each procedure in the system
+85:06
+hey this is the same file as Jeff was
+85:09
+looking at is them right let me system
+85:12
+guide for programmers to find things in
+85:15
+here's your same picture let me get down
+85:24
+here there we are see the first part is
+85:32
+the catalog second part contains the
+85:33
+list of keywords let's open that up
+85:35
+there again categorized into the various
+85:39
+categories that you would want to use to
+85:41
+describe what you're after let's look at
+85:43
+file handling and open that up here we
+85:46
+have the list of keywords that we can
+85:48
+use to describe things that have to do
+85:51
+with file handling the things in
+85:54
+parentheses the names of those are the
+85:55
+keywords this is just a name that's used
+85:58
+to keep track of it it can be the
+86:00
+keyword can be referenced from any place
+86:01
+in the text by this name then there's a
+86:05
+phrase following that it's a little more
+86:07
+descriptive that tell us what it's about
+86:10
+then following that there's a list of
+86:13
+the items in the catalog that are
+86:15
+referred to by that keyword yeah you're
+86:18
+only looking at one line for each
+86:19
+statement so you might see the first few
+86:21
+right so now I'm able to actually select
+86:27
+the keywords that I want to use to
+86:29
+describe what I'm interested in I can do
+86:31
+that just by pointing at it then it
+86:33
+writes the word up here and
+86:35
+other command accept to accept it like
+86:38
+an ass accept file control and I've
+86:40
+already accepted file referencing I'm
+86:43
+able to I'm also still on yes we hear
+86:51
+you some hoop
+86:56
+somebody hung up on us how do you say go
+87:02
+ahead with a mouse
+87:03
+we're on yes Doug you back Doug can't
+87:10
+hear yet okay so I selected several
+87:14
+keywords here I can go ahead and give
+87:18
+particular keywords greater weight the
+87:24
+weighting refers to how important that
+87:26
+keyword is in describing what I'm after
+87:29
+so I can give this one a weight of two
+87:31
+where this one previously will also will
+87:34
+just have a weight of one that means
+87:37
+that the items that are referred to by
+87:39
+this keyword will occur earlier in the
+87:44
+selection when we're finished okay let's
+87:47
+go ahead now say keyword execute this
+87:50
+will go off and get the items out of the
+87:52
+catalogue and reorder them and there we
+87:57
+have the results now I have I can use
+88:02
+these to jump to various places in the
+88:06
+file I'm still in the systems file the
+88:09
+item here is the name of the utility so
+88:13
+I can jump and get the information about
+88:16
+that utility in the file or you line
+88:19
+down some various things about it go
+88:21
+back on the previous view now if I want
+88:23
+to go up and get the information I want
+88:26
+to jump a link on this and here I have
+88:30
+the documentation on that particular
+88:31
+procedure after looking at that I can go
+88:36
+back again
+88:44
+and now I'm set up again to go and
+88:47
+continue looking I can look at the next
+88:49
+item and here I've got the results on
+88:57
+that so I can continue to proceed in
+88:59
+this way looking at looking at the
+89:03
+various documentation and going back and
+89:08
+continuing you to explore re specify the
+89:12
+search parameters and look at new
+89:15
+keywords well Doug I don't know if you
+89:18
+survived through that we had the
+89:19
+operator the telephone company hung up
+89:21
+on us I think halfway through you still
+89:23
+back on yeah I guess we've got to come
+89:29
+back and I'm sorry I can't say goodbye
+89:31
+to Bill oh I can hear you now oh here
+89:34
+you go
+89:35
+you've been talking all the time I saw
+89:38
+one when you leaned over and hung up the
+89:41
+phone for a while so I couldn't
+89:43
+interrupt you all right well thanks I
+89:47
+I'm sorry that we're pushed by pushed
+89:50
+when we're trying to describe each of
+89:52
+the features in this system this
+89:54
+particular one the keyword is very
+89:56
+powerful and could very well warrant on
+89:58
+such a whole paper on itself because the
+90:02
+it's gives us the power of keyword
+90:05
+descriptor kind of organization but with
+90:08
+the out of feature of giving weights to
+90:10
+the keywords so the results of the
+90:12
+search as you see right here are ordered
+90:14
+so that this one ended up meeting the
+90:17
+most requirements and adding the most
+90:19
+weight and down here could be one that
+90:23
+only was only associated with one of the
+90:26
+descriptors in the lowest weight one at
+90:27
+that so you have an order this
+90:29
+that's probably relevance and then right
+90:31
+with us all the links use out as a link
+90:34
+to go off to the file to find it this is
+90:37
+a directory of a set of procedures so
+90:40
+here's the procedures here's a list of
+90:43
+procedures for those keywords he chose
+90:45
+that all describes certain things about
+90:47
+him file handling and this will take you
+90:49
+off the actual source code looks like
+90:51
+Donna Andrews wrote them all his files
+90:54
+the name of the place in his file
+90:56
+and the views that you should open up so
+90:59
+that when you follow this on a jump to
+91:00
+link you just see
+91:01
+Pingo the overall view of that procedure
+91:03
+and then as he pointed out instead of
+91:07
+saying jump to lincoln jump to a name
+91:08
+within this file where these things have
+91:10
+descriptive material about that too so I
+91:13
+think for the software guide it's very
+91:15
+powerful
+91:16
+thanks very much bill we'll bring it up
+91:18
+and the combination of techniques for
+91:26
+getting around inside of the structured
+91:29
+software files and the way in which
+91:31
+organized way in which is
+91:33
+special-purpose languages we've
+91:34
+developed fit with us the structure
+91:38
+we've used really give a very powerful
+91:40
+set of techniques and I really enjoying
+91:44
+all of you who are software people and
+91:46
+industry to come up and work your way
+91:47
+through these to have some of the
+91:49
+software people during open house really
+91:51
+show you what's what by taking you
+91:53
+through that let me see my text and I'll
+91:56
+see what I can skip so we can get
+91:58
+through in the time we were supposed to
+92:00
+like ten minutes ago let me go back to
+92:07
+that view and
+92:14
+they're purposely making that dim so
+92:16
+that I'll hurry all right other things
+92:21
+we're going to talk about very quickly
+92:22
+are the range of activities underneath
+92:27
+in our program and I will just go very
+92:30
+quickly through these then a service
+92:34
+system development and user system
+92:36
+development would be to talk about those
+92:38
+a bit only requires me to establish the
+92:42
+distinction between those two kinds of a
+92:44
+system really we we've taken to
+92:46
+splitting the overall main computer
+92:49
+system into this dichotomy of these two
+92:51
+systems where the service system is what
+92:53
+appears at the turmoil when I push
+92:57
+button in this button I get that
+92:58
+response when I do this I get that it's
+93:01
+the repertoire of commands and the
+93:04
+services that that organization of
+93:08
+software and hardware and sometimes
+93:10
+people gives to me the user system is
+93:12
+what's beyond that given all that what
+93:14
+do I do with it
+93:15
+what kind of conventions for leaving
+93:17
+messages and for using the content
+93:18
+analyzer and for organizing our files
+93:20
+and how do we use the links and the key
+93:23
+word thing user system there and this is
+93:25
+something that it's kind of a new
+93:27
+element in systems research that we're
+93:30
+trying to establish wall so that we can
+93:32
+integrate that kind of user system work
+93:34
+where the peoples methods the concepts
+93:36
+they use the procedures the skills all
+93:39
+are developed in coordination with the
+93:41
+kinds of tools that they have within our
+93:45
+beta Rick then we also have an explicit
+93:48
+activity we call management system work
+93:50
+or we are taking some project money and
+93:53
+developing our own set of management
+93:55
+tools to help us manage these 17 people
+93:58
+and all these diverse activities in this
+94:00
+complex system and so we are beginning
+94:05
+to develop some of those and we'd be
+94:06
+happy to talk to you about those during
+94:08
+open house and a forthcoming involvement
+94:12
+is this aqua computer network
+94:14
+experimental network that's going to
+94:16
+come into
+94:17
+being in his first form in about a year
+94:19
+and end up some time later with some 20
+94:22
+experimental computers in a network and
+94:24
+they hope to be able to transmit across
+94:27
+the country with bandwidth so something
+94:30
+like 20 kilobits per second delay times
+94:33
+of less than a tenth of a second which
+94:35
+would be enough so that I could be
+94:37
+running a system in Cambridge over the
+94:40
+network and getting the same kind of
+94:41
+response on a CRT and it may be that
+94:44
+people there and the next time we have a
+94:46
+conference in Boston I'll try this from
+94:49
+there the and in that network we're
+94:53
+going to try to develop a special
+94:55
+service to provide network information
+94:57
+relevant Network information for people
+95:01
+for the kind of information that it
+95:03
+takes to operate such a network who's
+95:06
+got what services what protocol do I use
+95:08
+to get there who's up today on went
+95:09
+towards the users guide what can I find
+95:11
+a paper that describes this system that
+95:14
+so-and-so offers and that's going to be
+95:17
+a various think challenge for us to
+95:19
+utilize our our tools for organizing and
+95:23
+treating information and the last thing
+95:26
+here is just a little comment about
+95:27
+after all of this what's the product
+95:29
+that we're providing in this research
+95:31
+well it's a word about providing a
+95:37
+sample augmentation system the one we
+95:39
+use and not only that it's an
+95:42
+augmentation system that's provided to
+95:47
+augment computer system development and
+95:50
+beyond that we also are hoping that
+95:52
+we're developing quite a few design
+95:54
+principles for developing augmentation
+95:56
+systems and these I hope are
+95:59
+transferable things let me
+96:12
+I'd like into clothes and give you some
+96:21
+description of the support we've gotten
+96:22
+from the different people to produce
+96:24
+this and acknowledge that in the back in
+96:27
+Menlo Park we've got quite a team of
+96:29
+people surrounded by a bit of equipment
+96:31
+that have been busy listening to us and
+96:33
+trying to control on switch and these
+96:35
+monitors are up there where all the
+96:36
+displays when the cameras went from
+96:39
+what's unused the displays go here so
+96:40
+they can monitor the different signals
+96:42
+and switch and send us what one we want
+96:44
+all right and I particularly want to
+96:47
+give appreciation of building base who
+96:49
+is not only designed all of the hardware
+96:52
+or you know been responsible for the
+96:53
+hardware and software development that
+96:56
+gives us our service system over these
+96:58
+years but in the last few months put
+97:00
+together the considerable network of
+97:04
+intercoms and video switching and
+97:07
+controls and mixers they borrowed stolen
+97:10
+that would provide this show that make
+97:12
+it come off like that to the supporting
+97:14
+staff at van during martin hardy roger
+97:16
+bates john yah groans Diavolo who just
+97:19
+worked very very hard to make all of
+97:21
+this work out technically Dave Evans and
+97:24
+coordinating this and in managing the
+97:26
+open house we're going to have Donna
+97:28
+Andrews Jeff Lewis and Bill Paxton for
+97:30
+preparing and presenting a material
+97:31
+there and beyond those two we've gone a
+97:36
+great deal of support from SR I general
+97:39
+preparation support Stewart Brand from
+97:42
+Portola Institute has volunteered a good
+97:44
+amount of time to help us he was in that
+97:45
+picture of people there John Dustin
+97:48
+Barry vanes research lab was very
+97:50
+cunning saving our life by offering us
+97:53
+alone in this Ida for projector that's
+97:55
+the machine that's projecting this video
+97:57
+image up on the screen what we were just
+97:59
+bowled over when we found out what sort
+98:02
+of a display we could provide of what
+98:04
+we're doing and would very much
+98:05
+appreciate the loan of that and gene
+98:07
+Warren from TNT communications who
+98:10
+handle this we retained him to come and
+98:12
+help us be sure it work and he's just
+98:14
+been a tremendous sparkplug running
+98:16
+around fixing paging system for us and
+98:19
+the whole
+98:19
+in task for instruments and it has done
+98:23
+a lot extra work lately the telephone
+98:26
+company the telephone company has done a
+98:30
+great deal beyond beyond what they
+98:33
+needed to do to to fix this up once they
+98:35
+found out what kind of a wild thing
+98:36
+we're trying and their video Men
+98:37
+yesterday when trying to help us out
+98:39
+with phone circuits and all kinds of
+98:41
+actually a very very interesting credit
+98:46
+to bring up next is Herman Miller
+98:50
+research company this is an affiliate of
+98:52
+Herman Miller furniture company and why
+98:56
+are they connected with a computer show
+98:57
+well they've been bringing out some new
+99:01
+office furnishings then we've been very
+99:04
+much interested in developing the whole
+99:06
+environment for people working in a
+99:08
+different way and that means walls desk
+99:11
+surfaces console everything we got to
+99:14
+attractive their line that they started
+99:16
+working to help us equip offices and
+99:19
+study like that and one of their
+99:21
+designers John Kelly came one day and
+99:23
+spent a day working with us about our
+99:24
+ideas about a control consoles as being
+99:27
+separated from display consoles and
+99:29
+ended up making this on a chair that I
+99:32
+can get up move around and sit down
+99:33
+swivel and lock rock and lean back and
+99:36
+work very relaxed so I think this is a
+99:39
+very exciting stage we've just gotten it
+99:41
+and in our open house we have a full
+99:44
+office that's equipped like this with
+99:46
+this kind of a console that we're very
+99:48
+excited about and we'd invite you to
+99:49
+come to and without being formal I'd
+99:53
+like to really say that I am backed up
+99:58
+by a really very tremendous team of
+100:00
+these seventeen guys who have caught the
+100:03
+spirit of putting on this show
+100:04
+tremendously and just done an
+100:06
+overwhelming job about putting it all
+100:08
+together and Bob backing me all these
+100:10
+years in this wild dream of doing this
+100:13
+sort of thing and they're all catching
+100:15
+fire and I I want to just tell them all
+100:17
+right now I owe them a lot and a very
+100:19
+final credit goes to my wife and
+100:22
+daughters who are out here to whom I'd
+100:25
+like to dedicate this whole presentation
+100:26
+because of what they've put up with over
+100:28
+these
+100:29
+years with a husband that dedicated in a
+100:32
+monomaniac away to something very well
+100:34
+and so this whole presentation is
+100:38
+dedicated to you for people there and I
+100:41
+thank all the rusty very much for coming
+100:42
+to the dedication ceremonies

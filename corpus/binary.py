@@ -1,7 +1,25 @@
+import json
+
 def main():
-    words = readFile('./input/clean.txt')
-    binary = toBinary(words)
-    writeFile('./output/binary.txt', binary)
+    words = readFile('corpus/input/captions-timestamped.txt')
+    # binary = toBinary(words)
+    toJson(words)
+    # writeFile('./output/binary.txt', binary)
+
+def toJson(words):
+    timestamp = "13:13"
+    binary = ["000", "111", "011"]
+    data = {}
+    data['score'] = []
+    data['score'].append({
+        timestamp: binary
+    })
+    data['score'].append({
+        timestamp: binary
+    })
+
+    with open('corpus/output/score.json', 'w') as outfile:
+        json.dump(data, outfile)
 
 def toBinary(input):
     input = input.lower()

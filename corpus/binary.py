@@ -1,55 +1,74 @@
 import json
+import re
+
+# delete punctuation or replace with a pause
+# not sure what to do about numbers
+# not using uppercase
+pauseChars = r'-'
+deleteChars = r'[^a-z\s]'
+
+data = {}
+
 
 def main():
-    words = readFile('corpus/input/captions-timestamped.txt')
-    # binary = toBinary(words)
-    toJson(words)
-    # writeFile('./output/binary.txt', binary)
+    text = readFile('corpus/input/captions-timestamped.txt')
+    for i in range(0, len(text), 2):
+        getJson(i, text[i], text[i+1])
+    writeJson('corpus/output/score.json')
 
-def toJson(words):
-    timestamp = "13:13"
-    binary = ["000", "111", "011"]
-    data = {}
-    data['score'] = []
-    data['score'].append({
-        timestamp: binary
-    })
-    data['score'].append({
-        timestamp: binary
-    })
 
-    with open('corpus/output/score.json', 'w') as outfile:
-        json.dump(data, outfile)
+def getJson(i, timestamp, words):
+    captionNumber = i/2
+    frame = getFrame(timestamp)
+    # pad every line with a pause to stop lines running together
+    words += ' '
+    binary = getBinary(words)
+    data[captionNumber] = {
+        'timestamp': timestamp,
+        'videoframe': frame,
+        'words': words,
+        'binary': binary
+    }
 
-def toBinary(input):
-    input = input.lower()
-    chars = list(input)
+
+def getFrame(timestamp):
+    timestamp = timestamp.replace(':', '.')
+    timestamp = float(timestamp)
+    integer, decimal = divmod(timestamp, 1)
+    integer *= 60
+    decimal *= 100
+    frame = integer + decimal
+    frame = int(frame)
+    return frame
+
+
+def getBinary(words):
+    words = words.lower()
+    words = re.sub(pauseChars, ' ', words)
+    words = re.sub(deleteChars, '', words)
     arr = []
     offset = 96
-    offset = 32
-    for c in chars:
-        unicode = ord(c) - offset
-        # if unicode < 1 or unicode > 26:
-        #     arr.append(c)
-        # else:
-        binary = "{0:07b}".format(unicode)
+    for char in words:
+        unicode = ord(char) - offset
+        if char is ' ':
+            unicode = 0
+        binary = "{0:05b}".format(unicode)
         arr.append(binary)
     return arr
+
 
 def readFile(filename):
     f = open(filename, "rb")
     lines = f.readlines()
     f.close()
-    text = ' '.join(lines)
-    text = text.replace('\n', ' ')
-    return text
+    lines = map(str.strip, lines)
+    return lines
 
-def writeFile(filename, input):
-    f = open(filename, "wb")
-    for line in input:
-        f.write(line)
-        f.write("\n")
-    f.close()
+
+def writeJson(filename):
+    with open('corpus/output/score.json', 'w') as outfile:
+        json.dump(data, outfile)
+
 
 if __name__ == '__main__':
     main()

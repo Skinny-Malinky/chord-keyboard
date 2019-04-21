@@ -1,11 +1,24 @@
 var bassoon1, bassoon2, bassoon3, bassoon4, bassoon5;
 var note0, note1, note2, note3, note4, note5, note6;
 
-var score = ['1000001', '1010101', '1000111', '1001101', '1000101', '1001110', '1010100', '1001001', '1001110', '1000111', '0000000', '1001000', '1010101', '1001101', '1000001', '1001110'];
+var jsonScore;
+var notes = [];
+var queue = [];
+var scoreLine = 0;
+var pauseLength = 0;
+
+var framesPerVideoFrame = 20;
 
 var noteDuration = 1;
 
 function preload() {
+
+    // the talk doesn't start till 1:37 inton the video
+    // skipped ahead to the action
+    // changed the videoframe of the first item of json from 97 to 102
+    frameCount = 102 * framesPerVideoFrame - 4;
+
+    jsonScore = loadJSON('./corpus/output/score.json');
 
     bassoon0 = loadSound('instrument/bassoon.mp3');
     bassoon1 = loadSound('instrument/bassoon.mp3');
@@ -20,33 +33,46 @@ function setup() {
 
     frameRate(1 / noteDuration);
 
-    note0 = new p5.Phrase('note0', makenote0, [1]);
-    note1 = new p5.Phrase('note1', makeNote1, [1]);
-    note2 = new p5.Phrase('note2', makeNote2, [1]);
-    note3 = new p5.Phrase('note3', makeNote3, [1]);
-    note4 = new p5.Phrase('note4', makeNote4, [1]);
-    note5 = new p5.Phrase('note5', makeNote5, [1]);
-    note6 = new p5.Phrase('note6', makeNote6, [1]);
-
+    notes[0] = new p5.Phrase('note0', makenote0, [1]);
+    notes[1] = new p5.Phrase('note1', makeNote1, [1]);
+    notes[2] = new p5.Phrase('note2', makeNote2, [1]);
+    notes[3] = new p5.Phrase('note3', makeNote3, [1]);
+    notes[4] = new p5.Phrase('note4', makeNote4, [1]);
+    notes[5] = new p5.Phrase('note5', makeNote5, [1]);
+    notes[6] = new p5.Phrase('note6', makeNote6, [1]);
 }
 
 function draw() {
 
-    console.log(frameCount);
+    if (queue.length > 0) {
+        var currentBinary = queue.shift();
+        playPart(currentBinary);
 
-    if (frameCount < score.length) {
-        playPart(score[frameCount]);
+    } else {
+        pauseLength++;
+    }
+
+    if (jsonScore[scoreLine].videoframe * framesPerVideoFrame == frameCount) {
+
+        if (pauseLength > 0) {
+            console.log('Pause length: ' + pauseLength);
+            pauseLength = 0;
+        }
+        console.log('Length of queue: ' + queue.length);
+        console.log(jsonScore[scoreLine].words);
+
+        queue = queue.concat(jsonScore[scoreLine].binary);
+        scoreLine++;
     }
 }
 
 function playPart(binary) {
 
-    console.log(binary);
     var thispart = new p5.Part();
 
     for (var i = 0; i < binary.length; i++) {
         if (binary[i] == 1) {
-            thispart.addPhrase(eval('note' + i));
+            thispart.addPhrase(notes[i]);
         }
     }
     thispart.start();
